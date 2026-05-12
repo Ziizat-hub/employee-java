@@ -13,8 +13,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 				description = "Backend Rest APIs for Employee Management System",
 				version = "v1.0",
 				contact = @Contact(
-						name="Adebisi Ramadan",
-						email = "adebisiramadan9@gmail.com"
+						name="Usman Azizat",
+						email = "ziizat062@gmail.com"
 				)
 		)
 )
